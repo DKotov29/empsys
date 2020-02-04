@@ -1,0 +1,6 @@
+name: EmpireSystems
+main: ua.dkotov.empiresystems.Core
+version: 1.0
+author: DKotov
+depend: ViaVersion
+softdepend: ViaVersion
